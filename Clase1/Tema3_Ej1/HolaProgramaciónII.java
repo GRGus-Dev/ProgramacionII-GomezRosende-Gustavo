@@ -8,8 +8,6 @@
 //OpenJDK Runtime Environment (build 21.0.12+8-1-24.04-Ubuntu)
 //OpenJDK 64-Bit Server VM (build 21.0.12+8-1-24.04-Ubuntu, mixed mode, sharing)
 
-package Clase1.Tema3_Ej1;
-
 public class HolaProgramaciónII{
 
     public static void main(String[] args) {
